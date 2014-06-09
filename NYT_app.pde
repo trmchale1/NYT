@@ -1,6 +1,6 @@
 import org.json.*;
 
-String baseURL = "http://api.nytimes.com/svc/search/v1/article";
+String baseURL = "http://api.nytimes.com/svc/search/v2/articlesearch.json";
 
 String apiKey = "ea4f784109e89c4206e13a5d04dc115a:16:69474324";
 
